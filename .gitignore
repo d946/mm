@@ -1,0 +1,4 @@
+.env
+/tests/playground/*
+!/tests/playground/.gitkeep
+/vendor/
